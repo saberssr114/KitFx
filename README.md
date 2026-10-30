@@ -6,7 +6,7 @@ easing, alignment, beat markers, spring motion, captions and presets — inside 
 ![EffectCraft](https://img.shields.io/badge/EffectCraft-0.18%2B-8b5cf6?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D4?style=flat-square)
 ![Panel](https://img.shields.io/badge/type-ScriptUI%20panel-22d3ee?style=flat-square)
-![Website]([https://img.shields.io/badge/website-live-22c55e?style=flat-square](https://celebrated-fudge-34970b.netlify.app))
+![Website]([https://img.shields.io/badge/website-live-22c55e?style=flat-square])
 
 **Website: <https://celebrated-fudge-34970b.netlify.app>** · **GitHub: [@saberssr114](https://github.com/saberssr114)**
 
