@@ -8,7 +8,7 @@ easing, alignment, beat markers, spring motion, captions and presets — inside 
 ![Panel](https://img.shields.io/badge/type-ScriptUI%20panel-22d3ee?style=flat-square)
 ![Website](https://img.shields.io/badge/website-live-22c55e?style=flat-square)
 
-**Website: <https://saberssr114.github.io/KitFx/>** · **GitHub: [@saberssr114](https://github.com/saberssr114)**
+**Website: <https://celebrated-fudge-34970b.netlify.app>** · **GitHub: [@saberssr114](https://github.com/saberssr114)**
 
 ![KitFX panel docked in EffectCraft](assets/curve.png)
 
